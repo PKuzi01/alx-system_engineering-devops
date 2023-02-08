@@ -1,2 +1,2 @@
 #!/bin/bash
-cp file_*.html /..
+cp file_[!:123:].html /..
