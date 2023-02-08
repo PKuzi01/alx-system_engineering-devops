@@ -1,2 +1,2 @@
 #!/bin/bash
-cp [!file_123:].html /..
+cp -rua *.html ../
