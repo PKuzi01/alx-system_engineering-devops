@@ -1,4 +1,4 @@
-Answers to '0x00. Shell, basics' project.
+Project: 0x00. Shell, basics
 
 Table of contents:
 README.md
