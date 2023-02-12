@@ -1,7 +1,8 @@
 Project: 0x01. Shell, permissions
 Answers to the project "0x01. Shell, permissions"
 
-Contents:
+Table of contents:
+README.md
 0-iam_betty
 1-who_am_i
 2-groups
