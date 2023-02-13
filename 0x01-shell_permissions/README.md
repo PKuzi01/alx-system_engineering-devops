@@ -1,7 +1,8 @@
 Project: 0x01. Shell, permissions
 Answers to the project "0x01. Shell, permissions"
 
-Contents:
+Table of contents:
+README.md
 0-iam_betty
 1-who_am_i
 2-groups
@@ -19,3 +20,4 @@ Contents:
 100-change_owner_and_group
 101-symbolic_link_permissions
 102-if_only
+103-Star_Wars
